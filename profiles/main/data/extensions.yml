@@ -1,0 +1,6 @@
+disabled: []
+enabled:
+  - id: Katsute.settings-repository
+    uuid: dc0c1188-c7d7-4267-bf2e-5052430a62a7
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
