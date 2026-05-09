@@ -1,3 +1,5 @@
 {
-    "settings-repository.repository": "https://github.com/Gren-95/vscode-settings.git"
+    "settings-repository.repository": "https://github.com/Gren-95/vscode-settings.git",
+    "workbench.colorTheme": "Adwaita Dark & Github syntax highlighting",
+    "workbench.iconTheme": "material-icon-theme"
 }
